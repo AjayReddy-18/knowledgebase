@@ -1,0 +1,5 @@
+site_name: My Knowledgebase 
+nav:
+  - Home: index.md
+  - X: x.md
+theme: readthedocs
