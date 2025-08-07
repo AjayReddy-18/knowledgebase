@@ -3,6 +3,8 @@ theme:
   name: material
 nav:
   - Home: index.md
-  - Git Scoping: git_scoping.md
-  - NuGet Package Generation: nuget_package_generation.md
+  - Git:
+      - Scoping: git/git_scoping.md
+  - NuGet:
+      - Package Generation: nuget/nuget_package_generation.md
 

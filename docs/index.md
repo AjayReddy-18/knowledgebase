@@ -25,8 +25,8 @@ I'm a strong believer in learning by documenting. This site helps me:
 
 ## 📌 Quick Links
 
-- [Git Scoping](git_scoping.md)
-- [NuGet Package Generation](nuget_package_generation.md)
+- [Git Scoping](git/git_scoping.md)
+- [NuGet Package Generation](nuget/nuget_package_generation.md)
 
 ---
 
