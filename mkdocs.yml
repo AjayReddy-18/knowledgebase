@@ -1,5 +1,8 @@
-site_name: My Knowledgebase 
+site_name: My Knowledge Base
+theme:
+  name: material
 nav:
   - Home: index.md
-  - X: x.md
-theme: readthedocs
+  - Git Scoping: git_scoping.md
+  - NuGet Package Generation: nuget_package_generation.md
+
