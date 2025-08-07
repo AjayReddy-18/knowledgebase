@@ -7,4 +7,8 @@ nav:
       - Scoping: git/git_scoping.md
   - NuGet:
       - Package Generation: nuget/nuget_package_generation.md
+plugins:
+  - search
+  - tags
+  - git-revision-date
 

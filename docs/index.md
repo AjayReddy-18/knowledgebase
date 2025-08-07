@@ -30,5 +30,4 @@ I'm a strong believer in learning by documenting. This site helps me:
 
 ---
 
-_Last updated:  07-Aug-2025 _
 
