@@ -3,6 +3,7 @@ theme:
   name: material
 nav:
   - Home: index.md
+  - MQTT: mqtt_protocol.md
   - Git:
       - Scoping: git/git_scoping.md
   - NuGet:
