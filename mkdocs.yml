@@ -1,15 +1,31 @@
 site_name: My Knowledge Base
+
 theme:
   name: material
+
 nav:
   - Home: index.md
-  - MQTT: mqtt_protocol.md
   - Git:
       - Scoping: git/git_scoping.md
   - NuGet:
       - Package Generation: nuget/nuget_package_generation.md
+  - MQTT: mqtt_protocol.md
+  - SOLID:
+      - S — Single Responsibility Principle: solid/s_single_responsibility.md
+      - O — Open/Closed Principle: solid/o_open_closed.md
+      - L — Liskov Substitution Principle: solid/l_liskov_substitution_principle.md
+      - I — Interface Segregation Principle: solid/i_interface_segregation_principle.md
+      - D — Dependency Inversion Principle: solid/d_dependency_inversion_principle.md
+
 plugins:
   - search
   - tags
-  - git-revision-date
+
+tags:
+  - git
+  - cli
+  - beginner
+  - mqtt
+  - solid
+  - design-principles
 
